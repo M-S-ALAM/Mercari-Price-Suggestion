@@ -13,7 +13,7 @@ Machine Learning/Deep Learning
 (1) name  - the title of the listing. Note that we have cleaned the data to remove text that look like prices (e.g. Nice product at $20) to avoid leakage. These removed prices are represented as (Nice product at).
 (2) item_condition_id - the condition of the items provided by the seller.
 (3) category_name - category of the listing.
-(4) brand_name-
+(4) brand_name- Name of brand.
 (5) price - the price that the item was sold for. This is the target variable that you will predict. The unit is USD. This column doesn't exist in test.tsv since that is what you will predict.
 (6) shipping - 1 if shipping fee is paid by seller and 0 by buyer.
 (7) item_description - the full description of the item. Note that we have cleaned the data to remove text that look like prices (e.g. $200).
