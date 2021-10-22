@@ -55,3 +55,5 @@ Get data from https://www.kaggle.com/c/mercari-price-suggestion-challenge
 
 https://stats.stackexchange.com/questions/56658/how-do-you-interpret-rmsle-root-mean-squared-logarithmic-error
  </pre>
+
+### Blog link:- https://medium.com/@mdshahbazpatna012/mercari-price-suggestion-an-end-to-end-case-study-1d1c3a6c80b2
